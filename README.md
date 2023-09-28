@@ -5,7 +5,7 @@ Introducing "Let's Chat" – Your gateway to a world of intelligent conversation
 
 ## Getting Started
 
-To view the details of each project, simply click on the file, The project page will contain a brief description of the project as well as a list of tools used to complete the project.
+To view the details of each project, simply click on the file, Each File named corresponding to the process.
 
 
 ## Testing Templates
